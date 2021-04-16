@@ -1,5 +1,5 @@
 # SYT_HELF
 ## Contributers:
-- Lukas 
-- Kadir
-- Rene
+- Lukas Kristmann
+- Kadir Demir
+- Rene Steinmaurer
