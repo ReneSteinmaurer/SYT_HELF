@@ -1,4 +1,4 @@
-*-Feuchtigkeit und Temperatursensor AM2302/DHT22 bzw. DHT11*
+-Feuchtigkeit und Temperatursensor AM2302/DHT22 bzw. DHT11
 - fertig
 
 -Auswerten eines digitalen Temperatursensors DS18B20 am 1-Wire-Bus
