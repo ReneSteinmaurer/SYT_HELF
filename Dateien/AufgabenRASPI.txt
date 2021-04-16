@@ -3,7 +3,7 @@
 -Auswerten eines digitalen Temperatursensors DS18B20 am 1-Wire-Bus
 - fertig
 -Auswerten eines MPU-6050 Gyroskops
-- ausstehend
+- fertig
 -Auswerten eines LDR und NTC am ADS1115 bzw. PFC8591
 - fertig 03_Übung im Git
 -Auswerten eines HC-SR04 Entfernungsmessers
@@ -14,3 +14,4 @@
 - fertig 
 -Auswerten analoger Sensoren für Helligkeit LDR und Temperatur über installierten AD-Wandler
  ADS1115 bzw. PCF8591 erfolgen
+ 
