@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/03_Uebung.dir/main.c.o  -o 03_Uebung -lwiringPi 
