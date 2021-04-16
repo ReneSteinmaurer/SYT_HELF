@@ -1,0 +1,3 @@
+/tmp/05_Entfernungsmesser/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/tmp/05_Entfernungsmesser/cmake-build-debug/CMakeFiles/05_Entfernungsmesser.dir
+/tmp/05_Entfernungsmesser/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/05_Entfernungsmesser.dir/main.c.o  -o 05_Entfernungsmesser -lwiringPi -lpigpio 
