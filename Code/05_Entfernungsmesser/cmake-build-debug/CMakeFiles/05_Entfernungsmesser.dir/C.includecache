@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/tmp/05_Entfernungsmesser/main.c
+/tmp/tmp.3h7e0nrgE3/main.c
 stdio.h
 -
-sys/time.h
+stdlib.h
 -
-pigpio.h
+wiringPi.h
 -
 

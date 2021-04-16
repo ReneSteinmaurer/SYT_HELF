@@ -12,7 +12,7 @@
       <paths name="raspi10 (0e8d122e-e798-4eaf-b6d1-be6dcd5400dc)">
         <serverdata>
           <mappings>
-            <mapping deploy="/tmp/tmp.3h7e0nrgE3" local="$PROJECT_DIR$" />
+            <mapping deploy="/tmp/tmp.RMq4d43LRP" local="$PROJECT_DIR$" />
           </mappings>
           <excludedPaths>
             <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
@@ -22,11 +22,8 @@
       <paths name="raspi15 (46b32792-b93c-42c3-9827-14ca3dafe676)">
         <serverdata>
           <mappings>
-            <mapping deploy="/tmp/05_Entfernungsmesser" local="$PROJECT_DIR$" />
+            <mapping local="$PROJECT_DIR$" web="/" />
           </mappings>
-          <excludedPaths>
-            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
-          </excludedPaths>
         </serverdata>
       </paths>
     </serverData>
