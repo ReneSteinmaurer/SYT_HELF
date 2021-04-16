@@ -118,7 +118,6 @@ int main(void)
     pressure_nn = pressure/pow(1 - ALTITUDE/44330.0, 5.255);
 
     // Output data to screen
-    printf("Temperature: %.2f C \n", temperature);
     printf("Pressure:    %.2f hPa \n", pressure);
     printf("Pressure NN: %.2f hPa \n", pressure_nn);
     return 0;
