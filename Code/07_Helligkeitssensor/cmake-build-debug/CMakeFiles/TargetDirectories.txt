@@ -1,0 +1,3 @@
+/tmp/tmp.xtHjDnreDI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/tmp/tmp.xtHjDnreDI/cmake-build-debug/CMakeFiles/07_Helligkeitssensor.dir
+/tmp/tmp.xtHjDnreDI/cmake-build-debug/CMakeFiles/edit_cache.dir

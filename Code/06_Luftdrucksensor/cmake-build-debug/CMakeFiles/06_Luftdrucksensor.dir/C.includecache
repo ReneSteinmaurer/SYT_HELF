@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/tmp.RMq4d43LRP/main.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+linux/i2c-dev.h
+-
+sys/ioctl.h
+-
+fcntl.h
+-
+math.h
+-
+
