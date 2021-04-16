@@ -1,17 +1,25 @@
--Feuchtigkeit und Temperatursensor AM2302/DHT22 bzw. DHT11
+*-Feuchtigkeit und Temperatursensor AM2302/DHT22 bzw. DHT11*
 - fertig
+
 -Auswerten eines digitalen Temperatursensors DS18B20 am 1-Wire-Bus
 - fertig
+
 -Auswerten eines MPU-6050 Gyroskops
 - fertig
+
 -Auswerten eines LDR und NTC am ADS1115 bzw. PFC8591
 - fertig 03_Übung im Git
+
 -Auswerten eines HC-SR04 Entfernungsmessers
 - fertig im Git
+
 -Auswerten eines BMP180/BME280 Luftdrucksensors
 - fertig
+
 -Auswerten eines Helligkeitssensors BH1750
 - fertig 
+
 -Auswerten analoger Sensoren für Helligkeit LDR und Temperatur über installierten AD-Wandler
  ADS1115 bzw. PCF8591 erfolgen
+- ausstehend
  
