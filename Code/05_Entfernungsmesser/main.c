@@ -12,6 +12,7 @@ void setup() {
 
 void getCM(int *dist) {
     //Send trig pulse
+    pinMode(TRIG, OUTPUT);
     digitalWrite(TRIG, HIGH);
     delayMicroseconds(20);
     digitalWrite(TRIG, LOW);
@@ -40,6 +41,7 @@ int main(void) {
     while (TRUE)
     {
         getCM(&dist);
+        delay(1000);
         printf("Distance: %dcm\n", dist);
     }
     delay(1000);
