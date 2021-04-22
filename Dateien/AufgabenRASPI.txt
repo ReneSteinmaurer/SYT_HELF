@@ -21,5 +21,4 @@
 
 -Auswerten analoger Sensoren für Helligkeit LDR und Temperatur über installierten AD-Wandler
  ADS1115 bzw. PCF8591 erfolgen
-- ausstehend
- 
+- fertig
