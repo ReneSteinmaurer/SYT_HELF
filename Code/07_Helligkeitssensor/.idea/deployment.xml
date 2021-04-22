@@ -2,27 +2,10 @@
 <project version="4">
   <component name="PublishConfigData">
     <serverData>
-      <paths name="raspi01 (6239e53d-dc4f-4f85-96f8-5e55f63a3566)">
+      <paths name="raspi-4ahit-12 (9fb70173-34e4-4d75-be5f-58eeb70299a5)">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="raspi10 (0e8d122e-e798-4eaf-b6d1-be6dcd5400dc)">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/tmp/tmp.xtHjDnreDI" local="$PROJECT_DIR$" />
-          </mappings>
-          <excludedPaths>
-            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
-          </excludedPaths>
-        </serverdata>
-      </paths>
-      <paths name="raspi15 (46b32792-b93c-42c3-9827-14ca3dafe676)">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/tmp/07_Helligkeitssensor" local="$PROJECT_DIR$" />
           </mappings>
         </serverdata>
       </paths>
