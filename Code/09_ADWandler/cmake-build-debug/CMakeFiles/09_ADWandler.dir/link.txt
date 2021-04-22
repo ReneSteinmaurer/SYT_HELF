@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/09_ADWandler.dir/main.c.o  -o 09_ADWandler -lwiringPi 
