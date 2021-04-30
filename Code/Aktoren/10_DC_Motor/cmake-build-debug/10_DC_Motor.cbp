@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/tmp/tmp.pymFjj2mEs/cmake-build-debug"/>
+				<Option working_dir="/tmp/10_DC_Motor/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.pymFjj2mEs/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.pymFjj2mEs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.pymFjj2mEs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.pymFjj2mEs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/10_DC_Motor/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/10_DC_Motor/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/10_DC_Motor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/10_DC_Motor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/tmp/tmp.pymFjj2mEs/cmake-build-debug"/>
+				<Option working_dir="/tmp/10_DC_Motor/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.pymFjj2mEs/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.pymFjj2mEs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.pymFjj2mEs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.pymFjj2mEs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/10_DC_Motor/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/10_DC_Motor/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/10_DC_Motor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/10_DC_Motor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="10_DC_Motor">
-				<Option output="/tmp/tmp.pymFjj2mEs/cmake-build-debug/10_DC_Motor" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/tmp/tmp.pymFjj2mEs/cmake-build-debug"/>
+				<Option output="/tmp/10_DC_Motor/cmake-build-debug/10_DC_Motor" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/10_DC_Motor/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -41,15 +41,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.pymFjj2mEs/cmake-build-debug/Makefile&quot;  VERBOSE=1 10_DC_Motor"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.pymFjj2mEs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.pymFjj2mEs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.pymFjj2mEs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/10_DC_Motor/cmake-build-debug/Makefile&quot;  VERBOSE=1 10_DC_Motor"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/10_DC_Motor/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/10_DC_Motor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/10_DC_Motor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="10_DC_Motor/fast">
-				<Option output="/tmp/tmp.pymFjj2mEs/cmake-build-debug/10_DC_Motor" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/tmp/tmp.pymFjj2mEs/cmake-build-debug"/>
+				<Option output="/tmp/10_DC_Motor/cmake-build-debug/10_DC_Motor" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/10_DC_Motor/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -61,27 +61,27 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.pymFjj2mEs/cmake-build-debug/Makefile&quot;  VERBOSE=1 10_DC_Motor/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.pymFjj2mEs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.pymFjj2mEs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.pymFjj2mEs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/10_DC_Motor/cmake-build-debug/Makefile&quot;  VERBOSE=1 10_DC_Motor/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/10_DC_Motor/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/10_DC_Motor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/10_DC_Motor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/tmp/tmp.pymFjj2mEs/cmake-build-debug"/>
+				<Option working_dir="/tmp/10_DC_Motor/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.pymFjj2mEs/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.pymFjj2mEs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.pymFjj2mEs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.pymFjj2mEs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/10_DC_Motor/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/10_DC_Motor/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/10_DC_Motor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/10_DC_Motor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/tmp/tmp.pymFjj2mEs/main.c">
+		<Unit filename="/tmp/10_DC_Motor/main.c">
 			<Option target="10_DC_Motor"/>
 		</Unit>
-		<Unit filename="/tmp/tmp.pymFjj2mEs/CMakeLists.txt">
+		<Unit filename="/tmp/10_DC_Motor/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

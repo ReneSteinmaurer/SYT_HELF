@@ -12,7 +12,7 @@
       <paths name="raspi04 (2179a210-7bdb-43fe-884f-24874b161059)">
         <serverdata>
           <mappings>
-            <mapping deploy="/tmp/10_DC_Motor" local="$PROJECT_DIR$" />
+            <mapping deploy="/tmp/tmp.hm0gq8awJu" local="$PROJECT_DIR$" />
           </mappings>
           <excludedPaths>
             <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />

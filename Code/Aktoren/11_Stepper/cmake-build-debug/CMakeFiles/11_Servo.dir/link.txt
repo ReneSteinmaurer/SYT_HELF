@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib11_Servo.a  CMakeFiles/11_Servo.dir/library.c.o
+/usr/bin/ranlib lib11_Servo.a

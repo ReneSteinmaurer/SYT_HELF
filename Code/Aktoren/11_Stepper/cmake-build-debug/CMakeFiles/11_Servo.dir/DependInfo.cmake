@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/tmp/10_DC_Motor/main.c" "/tmp/10_DC_Motor/cmake-build-debug/CMakeFiles/10_DC_Motor.dir/main.c.o"
+  "/tmp/tmp.hm0gq8awJu/library.c" "/tmp/tmp.hm0gq8awJu/cmake-build-debug/CMakeFiles/11_Servo.dir/library.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
