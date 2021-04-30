@@ -1,29 +1,28 @@
-#include <stdio.h>
 #include <wiringPi.h>
-/*
- * blink.c:
- *      blinks the first LED
- *      Gordon Henderson, projects@drogon.net
- */
-
 #include <stdio.h>
-#include <wiringPi.h>
 
-int main (void)
-{
-    printf ("Raspberry Pi blink\n") ;
+int main() {
 
-    if (wiringPiSetup () == -1)
-        return 1 ;
+    if (wiringPiSetupPhys() == -1)
+        return 1;
 
-    pinMode (0, OUTPUT) ;         // aka BCM_GPIO pin 17
 
-    for (;;)
-    {
-        digitalWrite (0, 1) ;       // On
-        delay (500) ;               // mS
-        digitalWrite (0, 0) ;       // Off
-        delay (500) ;
+    pinMode(0, OUTPUT);
+
+    // Dauerschleife
+    while(1) {
+        printf("in loop\n");
+        // LED an
+        digitalWrite(0, 1);
+
+        // Warte 100 ms
+        delay(1000);
+
+        // LED aus
+        digitalWrite(0, 0);
+        printf("LED State: " + digitalRead(0) + "\n");
+
+        // Warte 100 ms
+        delay(1000);
     }
-    return 0 ;
 }
